@@ -5,14 +5,22 @@ The project consists of multiple components, including the navigation system, re
 
 ### 🔗 External Resources
 
-- **Real Terrain Dataset (TR-SUB-125)**  
+- **Real Terrain Dataset (TR-SUB-125)**
+  - [ ] Upload Data
+        
   https://huggingface.co/datasets/cbeat/TR-SUB-125  
 
-- **ROS Navigation Package (HRS_ROS)**  
+- **ROS Navigation Package (HRS_ROS)**
+  - [x] Upload Code
+        
   https://github.com/MZTC/HRS_ROS  
 
-- **Low-Level Planner**  
+- **Low-Level Planner**
+  - [ ] Upload Code
+  - [ ] Upload ckpt
+        
   Included in this repository (https://github.com/MZTC/HNav)
 
-- **High-Level Decision Module**  
+- **High-Level Decision Module**
+  - [ ] Upload Code
   Coming soon  
