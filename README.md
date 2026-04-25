@@ -12,7 +12,7 @@ The project consists of multiple components, including the navigation system, re
   https://github.com/MZTC/HRS_ROS  
 
 - **Low-Level Planner**  
-  Included in this repository  
+  Included in this repository (https://github.com/MZTC/HNav)
 
 - **High-Level Decision Module**  
   Coming soon  
