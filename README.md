@@ -1,3 +1,6 @@
+[<video src="video/demo_low.mp4" controls width="100%"></video>
+![Sample Video](video/demo_low.mp4)](https://github.com/user-attachments/assets/302ada8d-d725-4287-a5ac-58e0ad5f99d1)
+
 ## 📁 Project Structure & Resources
 
 The project consists of multiple components, including the navigation system, real-world dataset, and deployed models:
