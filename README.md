@@ -10,7 +10,7 @@ The project consists of multiple components, including the navigation system, re
 
 - **Real Terrain Dataset (TR-SUB-125)**
   - **Full Dataset**
-    - [ ] Upload Data  
+    - [x] Upload Data  
       
     https://huggingface.co/datasets/cbeat/TR-SUB-125  
 
